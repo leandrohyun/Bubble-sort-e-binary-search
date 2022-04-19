@@ -73,4 +73,4 @@ console.log(binarySearch(estradas1,start,end,target));
 var antes2 = Date.now();
 binarySearch(estradas1,start,end,target);
 var duracao2 = Date.now() - antes;
-console.log("Binary Search" + duracao + "ms");
+console.log("Binary Search" + duracao2 + "ms");
